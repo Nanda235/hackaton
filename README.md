@@ -33,3 +33,4 @@ How it works:
 
 technical implementation:
 
+![image](https://github.com/Nanda235/hackaton/assets/163506816/9bd94c0b-3320-4db8-a93f-7d54d130ce77)
