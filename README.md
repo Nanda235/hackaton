@@ -27,7 +27,9 @@ Technstacks used:
 
 pandas,mediapipe,numpy,keras,LSTM
 
-Techical implementation:
+How it works:
 
 ![image](https://github.com/Nanda235/hackaton/assets/163506816/37c50e47-7207-46ac-aa77-9af3ca6b9be6)
+
+technical implementation:
 
