@@ -33,4 +33,5 @@ How it works:
 
 technical implementation:
 
-![image](https://github.com/Nanda235/hackaton/assets/163506816/9bd94c0b-3320-4db8-a93f-7d54d130ce77)
+![Screenshot 2024-03-17 095826](https://github.com/Nanda235/hackaton/assets/163506816/b91f4480-19b9-47f2-b639-24bab591362a)
+
