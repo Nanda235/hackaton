@@ -1,3 +1,4 @@
+                                     VOILANCE DETECTION FOR PUBLIC SAFTEY USING LSTM
 TEAM MEMBERS:
 
 VH078
@@ -22,4 +23,8 @@ At the heart of our solution lies the power of technology, specifically Long Sho
 
 Our solution provides a proactive approach to address this challenge. By continuously analyzing video feeds from surveillance cameras, our LSTM-powered system can detect patterns indicative of violent behavior, such as aggressive movements or altercations, in real-time.
 
+Technstacks used:
 
+pandas,mediapipe,numpy,keras,LSTM
+
+Techical implementation:
